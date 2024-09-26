@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\bin\Debug\AdministradorDeTareas.exe.config
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\bin\Debug\AdministradorDeTareas.exe
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\bin\Debug\AdministradorDeTareas.pdb
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.Form1.resources
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.Properties.Resources.resources
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.CopyComplete
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.exe
+C:\Users\User\source\repos\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.pdb
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\bin\Debug\AdministradorDeTareas.exe.config
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\bin\Debug\AdministradorDeTareas.exe
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\bin\Debug\AdministradorDeTareas.pdb
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.Form1.resources
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.Properties.Resources.resources
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.CopyComplete
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.exe
+C:\Users\User\source\repos\AdministradorDeTareas - copia\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.pdb
